@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Morning Dashboard Header" width="100%">
+</p>
+
 # Morning Dashboard
 
 Ein OpenClaw-Skill für tägliche Briefings: Wetter, Termine, To-dos, Geburtstage.
