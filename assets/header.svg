@@ -61,7 +61,7 @@
     <text class="sub" x="0" y="44">OpenClaw Skill · tägliches Telegram-Dashboard um 06:00</text>
 
     <!-- Pills -->
-    <g transform="translate(0,78)">
+    <g transform="translate(36,78)">
       <g>
         <rect x="0" y="0" rx="14" ry="14" width="150" height="34" fill="#ffffff" opacity="0.16"/>
         <text class="pill" x="16" y="24">🌦️ Wetter</text>
